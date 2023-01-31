@@ -1,0 +1,222 @@
+{
+  "settings": {
+    "language": "es",
+    "lastUpdate": "2023-01-30",
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Nerea",
+      "surnames": "González López",
+      "title": "Programadora sénior",
+      "description": "https://www.linkedin.com/in/nereagl/ | Desarrollo backend Java en sector retail, administración pública y producto.\n"
+    },
+    "relevantYearsOfExperience": 10,
+    "relevantLinks": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/nereagl/",
+          "description": "Mi perfil en LinkedIn"
+        }
+  },
+  "interestingFacts": [
+    {
+      "topic": "Tenis de mesa",
+      "fact": "Empecé a competir y entrenar a los 32 años. Tengo licencia de árbitro y de entrenadora."
+    },
+    {
+     "topic": "Espresso",
+     "fact": "He caido en la madriguera del espresso. Soy barista de pacotilla."
+    },
+    {
+     "fact": "Bitcoiner"
+    }
+  ],
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Corunet by Sngular",
+          "description": "Desarrolladora sénior en proyectos retail y de producto.",
+          "location": {
+            "notes": "A Coruña"
+          }
+        },
+        "roles": [
+          {
+            "challenges": [
+              {
+                "description": "Tienda física Inditex | Mantenimiento, desarrollo, liderazgo técnico y de equipo en el área de tienda física por parte de Corunet para Inditex.",
+                "actions": [
+                  "Java, Spring, Spring Boot, Graylog, Grafana, Git, Github, Jira, Bitbucket, IBM MQ, Kafka, Couchbase, Oracle, microservicios, SOAP, REST, Maven, JUnit"
+                ]
+              },
+              {
+                "description": "Dialenga | Desarrollo en la parte de backend del producto",
+                "actions": [
+                  "Java, Spring, Hibernate, MySQL, XMPP, Tomcat, Git, REST, Maven, JUnit"
+                ]
+              }
+            ],
+            "startDate": "2018-02-01",
+            "finishDate": "2018-02-01",
+            "name": "Programadora sénior"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "INDRA",
+          "description": "Programadora en proyectos para la administración pública.",
+          "location": {
+            "notes": "A Coruña"
+          }
+        },
+        "roles": [
+          {
+            "challenges": [
+              {
+                "description": "Plataforma de Turismo para la Xunta de Galicia | Gestión de recursos turísticos y sus tipologías.",
+                "actions": [
+                  "Java,Spring MVC, Spring Security, Hibernate, Maven, Jboss, Javascript, Bootstrap y JSP/ Tiles"
+                ]
+              },
+              {
+                "description": "Diario Oficial de Galicia | Gestión de anuncios, diarios, usuarios, suscripciones y mantenimiento del proceso de publicación, maquetación y cierre del Diario Oficial de Galicia tanto en frontend como backend.",
+                "actions": [
+                  "Java, Spring Framework, Struts, Hibernate, Apache Lucene, Weblogic como servidor de aplicaciones, JavaScript, Bootstrap, JSPs y Apache Tiles."
+                ]
+              },
+              {
+                "description": "Sede Electrónica Xunta de Galicia | Centrada en la parte backend haciendo una remodelación de la Sede actual de la Xunta de Galicia y participando en la creación de nuevas aplicaciones.",
+                "actions": [
+                  "Java, Spring Boot, Hibernate, Oracle, Weblogic, Jenkins, Angular, Maven."
+                ]
+              }
+            ],
+            "startDate": "2014-05-01",
+            "finishDate": "2018-02-01",
+            "name": "Ingeniera de Software"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "INSA",
+          "location": {
+            "notes": "Arteixo - A Coruña"
+          }
+        },
+        "roles": [
+          {
+            "challenges": [
+              {
+                "description": "Tiendas Online Inditex | Participo en tareas de análisis de diseños de nuevos fronts, revisión de maquetas para que cumplan unos requerimientos y funcionalidades específicos, contacto directo con el cliente, modificación y creación de peticiones Rest, refactorización de ficheros struts, gestión de versiones con SVN, documentación de apis, etc.",
+                "actions": [
+                  "IBM Websphere Commerce, Java, Javascript, JSP, CSS, HTML, JSTL, jQuery, Subversion, SQL, Struts"
+                ]
+              }
+            ],
+            "startDate": "2012-10-01",
+            "finishDate": "2014-05-01",
+            "name": "Programadora Junior"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "contactMails": [
+        "nerea.gonzalez@sngular.com"
+      ]
+    }
+  },
+  "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Java, Spring, Spring Boot, Oracle, Mysql, Couchbase, JUnit, JMS, REST, Git, XMPP, Maven, Tomcat, Web Services SOAP",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Análisis, diseño e implementación de soluciones de negocio.",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Enfoque técnico.",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Código limpio.",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Definición de APIs.",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Investigación, curiosidad y pelea con lo que se tercie.",
+          "type": "practice"
+        }
+      }
+    ],
+    "languages": [
+      {
+        "name": "Español"
+      },
+      {
+        "name": "Inglés (escrito > hablado)"
+      },
+      {
+        "name": "Gallego"
+      }
+    ],
+    "studies": [
+      {
+        "name": "Scrum Manager",
+        "startDate": "2020-02-01",
+        "degreeAchieved": true,
+        "studyType": "officialDegree"
+      },
+      {
+        "institution": {
+          "name": "Universidad de Vigo"
+        },
+        "name": "Ingeniería Informática",
+        "startDate": "2012-01-01",
+        "degreeAchieved": true,
+        "studyType": "officialDegree"
+      },
+      {
+        "institution": {
+          "name": "Universidad de Vigo"
+        },
+        "name": "Ingeniería Técnica en Informática de Gestión",
+        "startDate": "2008-01-01",
+        "degreeAchieved": true,
+        "studyType": "officialDegree"
+      },
+      {
+        "institution": {
+          "name": "Universidad de Vigo"
+        },
+        "name": "Becaria de Formación Complementaria",
+        "startDate": "2011-01-01",
+        "degreeAchieved": true,
+        "studyType": "unaccredited"
+      }
+    ]
+  }
+}
