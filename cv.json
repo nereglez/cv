@@ -45,13 +45,13 @@
           {
             "challenges": [
               {
-                "description": "Tienda física Inditex | Mantenimiento, desarrollo, liderazgo técnico y de equipo en el área de tienda física por parte de Corunet para Inditex.",
+                "description": "Tienda física Inditex | Liderazgo y desarrollo técnico en proyectos relacionados con las cajas de las tiendas físicas de Inditex:  \n  - Persistencia de documentos generados por las cajas en su operativa diaria en bases de datos relacionales y no relacionales a través de un sistema de ingesta y consumo de mensajes en colas.\n  - Gestión de dichos documentos a través de un backoffice con frontal y API REST.\n  - Microservicios auxiliares para el almacenamiento de configuraciones propias de dispositivos de tienda física con API REST y eventos sobre Kafka para generación de informes.\n  - Servicio para la gestión de devoluciones en tienda física con recuperación de tickets originales consultando la información en Couchbase.\n  - Aplicativo para la identificación como cliente en las tiendas de Massimo Dutti para el uso de promociones, listado de pedidos realizados, consulta de tickets e información personal.\n",
                 "actions": [
-                  "Java, Spring, Spring Boot, Graylog, Grafana, Git, Github, Jira, Bitbucket, IBM MQ, Kafka, Couchbase, Oracle, microservicios, SOAP, REST, Maven, JUnit"
+                  "Java, Spring, Spring Boot, Graylog, Grafana, Git, Github, Jira, Bitbucket, IBM MQ, Kafka, eventos, Couchbase, Oracle, microservicios, SOAP, REST, Maven, JUnit, Mockito"
                 ]
               },
               {
-                "description": "Dialenga | Desarrollo en la parte de backend del producto",
+                "description": "Dialenga | Desarrollo en la parte de backend del producto:\nInvolucrada principalmente en la creación de un cliente de mensajería instantánea haciendo un análisis previo de los servidores XMPP disponibles y desarrollando el API REST para la gestión de salas, participantes, permisos de acceso y comunicación con el servidor XMPP.",
                 "actions": [
                   "Java, Spring, Hibernate, MySQL, XMPP, Tomcat, Git, REST, Maven, JUnit"
                 ]
@@ -59,7 +59,7 @@
             ],
             "startDate": "2018-02-01",
             "finishDate": "2018-02-01",
-            "name": "Programadora sénior"
+            "name": "Programadora sénior & Líder técnico"
           }
         ]
       },
@@ -140,7 +140,7 @@
         }
       }
     ],
-    "softSkills": [
+   "softSkills": [
       {
         "skill": {
           "name": "Análisis, diseño e implementación de soluciones de negocio.",
@@ -167,7 +167,7 @@
       },
       {
         "skill": {
-          "name": "Investigación, curiosidad y pelea con lo que se tercie.",
+          "name": "Curiosidad y motivación para enfrentar nuevos retos.",
           "type": "practice"
         }
       }
