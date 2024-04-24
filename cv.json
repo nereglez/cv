@@ -41,19 +41,31 @@
             "notes": "A Coruña"
           }
         },
-        "roles": [
+         "roles": [
           {
             "challenges": [
               {
-                "description": "Tienda física Inditex | Liderazgo y desarrollo técnico en proyectos relacionados con las cajas de las tiendas físicas de Inditex:  \n  - Persistencia de documentos generados por las cajas en su operativa diaria en bases de datos relacionales y no relacionales a través de un sistema de ingesta y consumo de mensajes en colas.\n  - Gestión de dichos documentos a través de un backoffice con frontal y API REST.\n  - Microservicios auxiliares para el almacenamiento de configuraciones propias de dispositivos de tienda física con API REST y eventos sobre Kafka para generación de informes.\n  - Servicio para la gestión de devoluciones en tienda física con recuperación de tickets originales consultando la información en Couchbase.\n  - Aplicativo para la identificación como cliente en las tiendas de Massimo Dutti para el uso de promociones, listado de pedidos realizados, consulta de tickets e información personal.\n",
+                "description": "MytripleA | Análisis y desarrollo en backend de un producto Buy Now Pay Later. Diseño de entidades de dominio, integración con terceros para dar soporte a distintos medios de pago y diseño de apis para frontal web.",
                 "actions": [
-                  "Java, Spring, Spring Boot, Graylog, Grafana, Git, Github, Jira, Bitbucket, IBM MQ, Kafka, eventos, Couchbase, Oracle, microservicios, SOAP, REST, Maven, JUnit, Mockito"
+                  "Java, Spring Boot, Spring, PostgreSQL, Hibernate, Amazon S3, Maven, Git, Docker, REST, JUnit"
+                ]
+              },
+              {
+                "description": "Orange Bank | Análisis y desarrollo en backend de la plataforma bancaria de Orange Bank:\nCreación de microservicios orientados a los distintos dominios soportados en el banco (transferencias, cheques, recibos, recargas, transferencias instantáneas, etc). Arquitectura orientada a eventos y apis REST dando servicio a frontal móvil.",
+                "actions": [
+                  "Java, Spring Boot, Kafka, REST, Maven, Junit, Gherkin, Bitbucket, Git, Docker, PostgreSQL, Hibernate, Spring, Spring Batch, Amazon S3"
                 ]
               },
               {
                 "description": "Dialenga | Desarrollo en la parte de backend del producto:\nInvolucrada principalmente en la creación de un cliente de mensajería instantánea haciendo un análisis previo de los servidores XMPP disponibles y desarrollando el API REST para la gestión de salas, participantes, permisos de acceso y comunicación con el servidor XMPP.",
                 "actions": [
                   "Java, Spring, Hibernate, MySQL, XMPP, Tomcat, Git, REST, Maven, JUnit"
+                ]
+              },
+              {
+                "description": "Tienda física Inditex | Liderazgo y desarrollo técnico en proyectos relacionados con las cajas de las tiendas físicas de Inditex:  \n  - Persistencia de documentos generados por las cajas en su operativa diaria en bases de datos relacionales y no relacionales a través de un sistema de ingesta y consumo de mensajes en colas.\n  - Gestión de dichos documentos a través de un backoffice con frontal y API REST.\n  - Microservicios auxiliares para el almacenamiento de configuraciones propias de dispositivos de tienda física con API REST y eventos sobre Kafka para generación de informes.\n  - Servicio para la gestión de devoluciones en tienda física con recuperación de tickets originales consultando la información en Couchbase.\n  - Aplicativo para la identificación como cliente en las tiendas de Massimo Dutti para el uso de promociones, listado de pedidos realizados, consulta de tickets e información personal.\n",
+                "actions": [
+                  "Java, Spring, Spring Boot, Graylog, Grafana, Git, Github, Jira, Bitbucket, IBM MQ, Kafka, eventos, Couchbase, Oracle, microservicios, SOAP, REST, Maven, JUnit, Mockito"
                 ]
               }
             ],
